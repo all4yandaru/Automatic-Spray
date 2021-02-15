@@ -1,3 +1,9 @@
+// Anggota kelompok
+// Liek Allyandaru (123180054)
+// Julia Mutiara Farida (123180109)
+// Ivana Puspita Sari (123180125)
+// Muhammad Ibnu Zaqi (123180164)
+
 #define BLYNK_PRINT Serial
 #include <ESP8266_Lib.h>
 #include <BlynkSimpleShieldEsp8266.h>
